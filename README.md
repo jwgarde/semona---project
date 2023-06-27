@@ -17,4 +17,7 @@
 <br/>
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/ff2a23cd-2351-4cd8-8d1b-355e6fdd35c9" width="700" height="250"></cente
 
-
+<br/>
+<br/>
+## 구현 영상 ##
+![회원가입 최종](https://github.com/jwgarde/semona---project/assets/113418319/916ef983-eed2-4aa1-b168-10ebbcf42208)
