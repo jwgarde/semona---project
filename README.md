@@ -21,6 +21,6 @@
 <br/>
 
 ## 구현 영상 ##
-<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/916ef983-eed2-4aa1-b168-10ebbcf42208" width="800" height="700"></center>
+<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/916ef983-eed2-4aa1-b168-10ebbcf42208" width="650" height="700"></center>
 
 
