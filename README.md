@@ -12,7 +12,7 @@
 <br/>
 
 ## 파일설계 ##
-<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/87754d2d-2316-4bce-9912-c27be3b389cb" width="600" height="300"></center>
+<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/de738405-d723-4cc7-b194-e5762914f882" width="600" height="300"></center>
 <br/>
 <br/>
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/e7cbc264-a50d-4f09-bbb6-4cb508fe33b8" width="600" height="300"></cente
