@@ -15,6 +15,6 @@
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/7b911a3c-c3f2-42e7-996e-2f75d173194d" width="700" height="250"></center>
 <br/>
 <br/>
-<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/ff2a23cd-2351-4cd8-8d1b-355e6fdd35c9" width="600" height="300"></cente
+<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/ff2a23cd-2351-4cd8-8d1b-355e6fdd35c9" width="700" height="250"></cente
 
 
