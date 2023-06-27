@@ -13,4 +13,6 @@
 
 ## 파일설계 ##
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/87754d2d-2316-4bce-9912-c27be3b389cb" width="600" height="300"></center>
-
+<br/>
+<br/>
+<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/c7f3d0a2-ccf7-4dba-896f-910d78d7c59b" width="600" height="300"></cente
