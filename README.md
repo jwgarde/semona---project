@@ -31,6 +31,6 @@
 <br/>
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/2f5d6698-744b-4dba-908e-32f6df8ddd33" width="650" height="700"></center>
 
-### 비밀번호 기 ###
+### 비밀번호 찾기 ###
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/9744a0d2-92af-4cb1-8033-907566a939c8" width="650" height="700"></center>
 
