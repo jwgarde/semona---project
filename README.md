@@ -27,7 +27,7 @@
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/916ef983-eed2-4aa1-b168-10ebbcf42208" width="650" height="700"></center>
 <br/>
 
-## 로그인 및 초기화면 ##
+### 로그인 및 초기화면 ###
 <br/>
 <center><img src="https://github.com/jwgarde/semona---project/assets/113418319/2f5d6698-744b-4dba-908e-32f6df8ddd33" width="650" height="700"></center>
 
