@@ -12,5 +12,5 @@
 <br/>
 
 ## 파일설계 ##
-<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/7576a112-ba95-487a-996c-2efed84a98d5" width="600" height="550"></center>
+<center><img src="https://github.com/jwgarde/semona---project/assets/113418319/7576a112-ba95-487a-996c-2efed84a98d5" width="600" height="400"></center>
 
