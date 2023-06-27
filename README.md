@@ -2,4 +2,5 @@
 <u>2023 12월에 시작한 c언어 프로젝트입니다.</u> 
 -----------------------------------------
 ## 기능표
-![title]("C:\Users\chlwj\OneDrive\바탕 화면\기능설계.png"){: width="100" height="100"}
+![title](https://github.com/jwgarde/semona---project/assets/113418319/59b678c0-05f8-4284-a86d-dfad1e87fdd0){: width="100" height="100"}
+
